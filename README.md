@@ -5,3 +5,5 @@ humidity and soil moisture data from a greenhouse.
 
 The solution uses LoRa technology to transmit the data from the sensors using an RN2483 module and the ATmega328P MCU. This code ha been written
 with C++ using Platformio.
+
+The sensor data is then transmitted to thethingsnetwork platform.
